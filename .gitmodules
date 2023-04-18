@@ -12,7 +12,9 @@
 	url = https://github.com/antitypical/Result.git
 [submodule "Carthage/Checkouts/ReactiveSwift"]
 	path = Carthage/Checkouts/ReactiveSwift
-url=https://github.com/yyResearch/ReactiveSwift.git
+        url=https://github.com/yyResearch/ReactiveSwift.git
+        branch = deployment_target_ios11
 [submodule "Carthage/Checkouts/ReactiveObjC"]
 	path = Carthage/Checkouts/ReactiveObjC
-url=https://github.com/yyResearch/ReactiveObjC.git
+        url=https://github.com/yyResearch/ReactiveObjC.git
+        branch = master
