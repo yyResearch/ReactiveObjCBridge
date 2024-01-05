@@ -13,3 +13,5 @@ FOUNDATION_EXPORT double ReactiveObjCBridgeVersionNumber;
 
 //! Project version string for ReactiveObjCBridge.
 FOUNDATION_EXPORT const unsigned char ReactiveObjCBridgeVersionString[];
+
+#import "RACScheduler+SwiftSupport.h"
