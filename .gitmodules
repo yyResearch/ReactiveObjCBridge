@@ -13,7 +13,7 @@
 [submodule "Carthage/Checkouts/ReactiveSwift"]
 	path = Carthage/Checkouts/ReactiveSwift
         url=https://github.com/yyResearch/ReactiveSwift.git
-        branch = deployment_target_ios11
+        branch = deployment_target_ios12
 [submodule "Carthage/Checkouts/ReactiveObjC"]
 	path = Carthage/Checkouts/ReactiveObjC
         url=https://github.com/yyResearch/ReactiveObjC.git

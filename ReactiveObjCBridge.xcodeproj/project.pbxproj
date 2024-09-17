@@ -1046,7 +1046,7 @@
 				CODE_SIGNING_REQUIRED = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_TESTABILITY = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactivecocoa.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(PROJECT_NAME)";
@@ -1072,7 +1072,7 @@
 				CODE_SIGNING_REQUIRED = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				GCC_OPTIMIZATION_LEVEL = 0;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactivecocoa.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(PROJECT_NAME)";
@@ -1163,7 +1163,6 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1181,7 +1180,6 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1197,7 +1195,6 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridgeTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1213,7 +1210,6 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridgeTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1232,7 +1228,7 @@
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				CURRENT_PROJECT_VERSION = 1;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactivecocoa.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(PROJECT_NAME)";
@@ -1289,7 +1285,6 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1305,7 +1300,6 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridgeTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1324,7 +1318,7 @@
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				CURRENT_PROJECT_VERSION = 1;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactivecocoa.$(PRODUCT_NAME:rfc1034identifier)-Tests";
 				PRODUCT_NAME = "$(PROJECT_NAME)";
@@ -1381,7 +1375,6 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1397,7 +1390,6 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridgeTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 				SWIFT_VERSION = 5.0;
 			};
