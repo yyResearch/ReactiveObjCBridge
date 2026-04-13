@@ -42,7 +42,7 @@ extension SignalProducerProtocol {
 	}
 }
 
-extension RACDisposable: Disposable {
+extension RACDisposable: @retroactive Disposable {
 	public convenience init(_ disposable: Disposable?) {
 		if let disposable = disposable {
 			self.init(block: disposable.dispose)
@@ -52,7 +52,7 @@ extension RACDisposable: Disposable {
 	}
 }
 
-extension RACScheduler: DateScheduler {
+extension RACScheduler: @retroactive DateScheduler {
 	/// The current date, as determined by this scheduler.
 	public var currentDate: Date {
 		return Date()
